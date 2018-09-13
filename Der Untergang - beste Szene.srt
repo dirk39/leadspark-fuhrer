@@ -1,0 +1,35 @@
+00:00:00,00 --> 00:00:02,00 
+Abbiamo mergiato le modifiche su JIRA
+
+00:00:03,00 --> 00:00:06,00 
+I Q&A ci hanno dato via libera per il deploy di oggi all'ora di pranzo
+
+00:00:07,00 --> 00:00:10,00 
+Abbiamo avvisato il support del deploy e di tenere d'occhio ZenDesk
+
+00:00:11,00 --> 00:00:14,00 
+Anche se non ci aspettiamo particolari problemi grazie all'ottimo sviluppo fatto.
+
+00:00:16,00 --> 00:00:19,00 
+Quindi oggi andrà finalmente online il fix di Mauro per i CAP di Berlino giusto?
+
+00:00:26,00 --> 00:00:27,00 
+Mauro...
+
+00:00:29,00 --> 00:00:32,00 
+Mauro ha detto che è troppo complicato e ci vuole troppo tempo
+
+00:00:32,00 --> 00:00:34,00 
+E in questo momento è impegnato su LeadSpark2
+
+00:00:50,00 --> 00:00:55,00 
+Rimangano solo Carlo, Andrea, Giancarlo e Nicolò
+
+00:01:09,00 --> 00:01:11,00 
+Non è possibile!
+
+00:01:11,00 --> 00:01:13,00 
+Un altro deploy pieno di funzionalità inutili!
+
+00:01:14,00 --> 00:01:19,00 
+Avevo raccontato ai miei amici che questa cosa la facevamo in 5 minuti!
