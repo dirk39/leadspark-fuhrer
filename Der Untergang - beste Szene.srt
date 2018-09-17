@@ -11,7 +11,7 @@ Abbiamo avvisato il support del deploy e di tenere d'occhio ZenDesk
 Anche i DevOps sono stati avvisati e hanno controllato le metriche per tutto il tempo.
 
 00:00:16,00 --> 00:00:19,00 
-Quindi il deploy di oggi è andato bene corretto?
+Finalmente oggi abbiamo messo online la modifica per i CAP di Berlino giusto?
 
 00:00:26,00 --> 00:00:27,00 
 Le migration...
@@ -34,12 +34,31 @@ Un altro deploy fallito miseramente!
 00:01:15,00 --> 00:01:19,00 
 Avevo raccontato ai miei amici che facevamo continuos integration!
 
-00:01:22,00 --> 00:01:24,00 
+00:01:21,00 --> 00:01:24,00 
 Invece solo hotfix facciamo...
 
 00:01:25,00 --> 00:01:27,00 
-Mettiamo test unitari nell'isola felice
+Ci volevano 5 minuti a modificare i cap di Berlino
 
-00:01:28,00 --> 00:01:30,00 
-Ma alla fine con i test ci puliamo il c**o
+00:01:27,00 --> 00:01:29,00 
+L'avevo pure spiegato nella slide 259
+
+00:01:30,00 --> 00:01:33,00 
+Invece voi giocate a fare i DevOps
+
+00:01:34,00 --> 00:01:36,00 
+Quando non siete nemmeno in grado di caricare un file su FTP
+
+00:01:36,00 --> 00:01:38,00 
+Signore i nostri sono ottimi sviluppatori
+
+00:01:38,00 --> 00:01:41,00 
+Bravi a sviluppare bug e orridi hotfix!
+
+00:01:42,00 --> 00:01:43,00 
+Signore ma lo Sprint era troppo corto...
+
+00:01:43,00 --> 00:01:47,00 
+Comunque si trattatava di due CAP di m***a in centro a Berlino.
+
 
